@@ -54,5 +54,6 @@ Using Hinge Loss And Adamax Optimizer
 ![testing](https://i.imgur.com/sIQqpAp.png)
 
 # Test
+The output of the model is a positive / negative number based on which class the image belongs to with the magnitude of the number being the confidence of the model<br/>
 ![test1](https://i.imgur.com/nIcemHx.png)
 ![test2](https://i.imgur.com/TvuEe14.png)
