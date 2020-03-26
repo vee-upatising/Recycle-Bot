@@ -46,6 +46,9 @@ The design of the Recycle Bot includes:<br/>
 # Convolutional Neural Network Design
 ![CNN](https://i.imgur.com/nBVDjjw.png)
 
+# Forward Propagation Visualization
+![Forward Prop](https://raw.githubusercontent.com/vee-upatising/Recycle-Bot/master/CNN%20Forward%20Propagation.gif)
+
 # Training
 ![loss](https://i.imgur.com/urBS8MK.png)<br/>
 * Using Hinge Loss And Adamax Optimizer
