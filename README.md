@@ -48,6 +48,11 @@ The design of the Recycle Bot includes:<br/>
 
 # Forward Propagation Visualization
 ![Forward Prop](https://raw.githubusercontent.com/vee-upatising/Recycle-Bot/master/CNN%20Forward%20Propagation.gif)
+![Forward Prop 2](https://raw.githubusercontent.com/vee-upatising/Recycle-Bot/master/CNN%20Forward%20Propagation%202.gif)
+
+# Convolutional Filter Heat Map
+![63](https://i.imgur.com/1KMa7YT.png)
+![44](https://i.imgur.com/CGejYPs.png)
 
 # Training
 ![loss](https://i.imgur.com/urBS8MK.png)<br/>
@@ -56,7 +61,7 @@ The design of the Recycle Bot includes:<br/>
 # Testing Accuracy
 ![testing](https://i.imgur.com/qggApQM.png)
 
-# Test
+# Sample Output
 The output of the model is a positive / negative number based on which class the image belongs to with the magnitude of the number being the confidence of the model.<br/>
 ![test1](https://i.imgur.com/nIcemHx.png)
 ![test2](https://i.imgur.com/TvuEe14.png)
