@@ -20,7 +20,7 @@ The design of the Recycle Bot includes:<br/>
 ![Platform](https://i.imgur.com/4Z5y41F.jpg)
 
 # Machine Learning Model Selection
-![model](https://i.imgur.com/sHvscT2.png)<br/>
+![model](https://i.imgur.com/jTY9cpw.png)<br/>
 * Best Performing Model Was Support Vector Machine With An Out Of Sample Accuracy of 0.992
 
 # Linear Model Using Hinge Loss
@@ -47,11 +47,11 @@ The design of the Recycle Bot includes:<br/>
 ![CNN](https://i.imgur.com/nBVDjjw.png)
 
 # Training
-![loss](https://i.imgur.com/KrHmxr3.png)<br/>
+![loss](https://i.imgur.com/urBS8MK.png)<br/>
 * Using Hinge Loss And Adamax Optimizer
 
 # Testing Accuracy
-![testing](https://i.imgur.com/sIQqpAp.png)
+![testing](https://i.imgur.com/qggApQM.png)
 
 # Test
 The output of the model is a positive / negative number based on which class the image belongs to with the magnitude of the number being the confidence of the model.<br/>
