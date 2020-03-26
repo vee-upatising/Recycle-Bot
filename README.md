@@ -44,11 +44,15 @@ The Best Performing Model Was Using Max Tree Depth = 9<br/>
 Testing Accuracy Using 5-Fold Cross Validation = 0.9763076923076923
 
 # Convolutional Neural Network Design
-![CNN](https://i.imgur.com/duTaHI8.png)
+![CNN](https://i.imgur.com/nBVDjjw.png)
 
 # Training
-![loss](https://i.imgur.com/9mR32uA.png)<br/>
-The model started overfitting after 8 epochs, so the model weights were restored from the end of the best epoch
+![loss](https://i.imgur.com/KrHmxr3.png)<br/>
+Using Hinge Loss And Adamax Optimizer
+
+# Testing Accuracy
+![testing](https://i.imgur.com/sIQqpAp.png)
 
 # Test
-![test](https://i.imgur.com/TjCkQQD.png)
+![test1](https://i.imgur.com/nIcemHx.png)
+![test2](https://i.imgur.com/TvuEe14.png)
