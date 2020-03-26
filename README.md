@@ -21,39 +21,39 @@ The design of the Recycle Bot includes:<br/>
 
 # Machine Learning Model Selection
 ![model](https://i.imgur.com/sHvscT2.png)<br/>
-Best Performing Model Was Support Vector Machine With An Out Of Sample Accuracy of 0.992
+* Best Performing Model Was Support Vector Machine With An Out Of Sample Accuracy of 0.992
 
 # Linear Model Using Hinge Loss
 ![linear](https://i.imgur.com/q7s3rRz.png)<br/>
-The Best Performing Model Was Using Regularization Constant = 0.01<br/>
-Testing Accuracy Using 5-Fold Cross Validation = 0.9529230769230768
+* The Best Performing Model Was Using Regularization Constant = 0.01<br/>
+* Testing Accuracy Using 5-Fold Cross Validation = 0.9529230769230768
 
 # Logistic Regression
 ![logistic](https://i.imgur.com/dhcOeSL.png)<br/>
-The Best Performing Model Was Using Regularization Constant = 10<br/>
-Testing Accuracy Using 5-Fold Cross Validation = 0.9446153846153846
+* The Best Performing Model Was Using Regularization Constant = 10<br/>
+* Testing Accuracy Using 5-Fold Cross Validation = 0.9446153846153846
 
 # Support Vector Machine
 ![SVM](https://i.imgur.com/fJCgv1U.png)<br/>
-The Best Performing Model Was Using Regularization Constant = 0.01<br/>
-Testing Accuracy Using 5-Fold Cross Validation = 0.992
+* The Best Performing Model Was Using Regularization Constant = 0.01<br/>
+* Testing Accuracy Using 5-Fold Cross Validation = 0.992
 
 # Decision Tree
 ![Tree](https://i.imgur.com/YyWqpTD.png)<br/>
-The Best Performing Model Was Using Max Tree Depth = 9<br/>
-Testing Accuracy Using 5-Fold Cross Validation = 0.9763076923076923
+* The Best Performing Model Was Using Max Tree Depth = 9<br/>
+* Testing Accuracy Using 5-Fold Cross Validation = 0.9763076923076923
 
 # Convolutional Neural Network Design
 ![CNN](https://i.imgur.com/nBVDjjw.png)
 
 # Training
 ![loss](https://i.imgur.com/KrHmxr3.png)<br/>
-Using Hinge Loss And Adamax Optimizer
+* Using Hinge Loss And Adamax Optimizer
 
 # Testing Accuracy
 ![testing](https://i.imgur.com/sIQqpAp.png)
 
 # Test
-The output of the model is a positive / negative number based on which class the image belongs to with the magnitude of the number being the confidence of the model<br/>
+The output of the model is a positive / negative number based on which class the image belongs to with the magnitude of the number being the confidence of the model.<br/>
 ![test1](https://i.imgur.com/nIcemHx.png)
 ![test2](https://i.imgur.com/TvuEe14.png)
