@@ -15,7 +15,7 @@ The goal is to help automate this process.
 # Design
 The design of the Recycle Bot includes:<br/>
 * A viewing platform
-* Crane arm with camera connected to Rasberry Pi
+* Crane arm with camera connected to Raspberry Pi
 * Servo motor with rotating stick<br/>
 ![Platform](https://i.imgur.com/4Z5y41F.jpg)
 
