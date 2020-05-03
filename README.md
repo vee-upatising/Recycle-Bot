@@ -59,6 +59,6 @@ The design of the Recycle Bot includes:<br/>
 
 # Training
 * I performed 5-Fold Cross Validation on this model and the training loss over each fold is plotted below:
-![loss](https://i.imgur.com/PlGAcsJ.png)<br/>
+![loss](https://i.imgur.com/yIeSl8e.jpg)<br/>
 * Using Hinge Loss And Adamax Optimizer
 * These five models achieved an average testing accuracy of 93.63076923076923%
