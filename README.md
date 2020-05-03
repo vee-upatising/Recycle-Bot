@@ -51,8 +51,8 @@ The design of the Recycle Bot includes:<br/>
 ![CNN](https://i.imgur.com/mQnUptP.png)
 
 # Forward Propagation Visualization
-![Forward Prop](https://raw.githubusercontent.com/vee-upatising/Recycle-Bot/master/CNN%20Forward%20Propagation.gif)
-![Forward Prop 2](https://raw.githubusercontent.com/vee-upatising/Recycle-Bot/master/CNN%20Forward%20Propagation%202.gif)
+![Forward Prop](https://raw.githubusercontent.com/vee-upatising/Recycle-Bot/master/44.gif)
+![Forward Prop 2](https://raw.githubusercontent.com/vee-upatising/Recycle-Bot/master/63.gif)
 
 # Convolutional Filter Heat Map
 ![63](https://i.imgur.com/0JTGrmm.png)
