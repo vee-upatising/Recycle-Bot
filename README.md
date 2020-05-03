@@ -20,7 +20,7 @@ The design of the Recycle Bot includes:<br/>
 ![Platform](https://i.imgur.com/4Z5y41F.jpg)
 
 # Machine Learning Model Selection
-![model](https://i.imgur.com/RoTqcjP.png)<br/>
+![model](https://i.imgur.com/Wawknjg.png)<br/>
 * Best Performing Model Was Support Vector Machine With An Out Of Sample Accuracy of 99.2%
 
 # Logistic Regression
@@ -61,4 +61,4 @@ The design of the Recycle Bot includes:<br/>
 * I performed 5-Fold Cross Validation on this model and the training loss over each fold is plotted below:
 ![loss](https://i.imgur.com/PlGAcsJ.png)<br/>
 * Using Hinge Loss And Adamax Optimizer
-* These five models achieved an average testing accuracy of 89.84615384615384%
+* These five models achieved an average testing accuracy of 93.63076923076923%
