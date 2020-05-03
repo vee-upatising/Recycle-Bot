@@ -39,7 +39,7 @@ The design of the Recycle Bot includes:<br/>
 ![Tree](https://i.imgur.com/YyWqpTD.png)<br/>
 * The Best Performing Model Was Using Max Tree Depth = 9<br/>
 * Testing Accuracy Using 5-Fold Cross Validation = 97.63076923076923%
-![decisiontree](https://i.imgur.com/AmPVfXD.png)
+![decisiontree](https://i.imgur.com/VdcZ5MI.png)
 
 # Support Vector Machine
 ![SVM](https://i.imgur.com/fJCgv1U.png)<br/>
