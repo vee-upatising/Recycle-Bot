@@ -20,43 +20,48 @@ The design of the Recycle Bot includes:<br/>
 ![Platform](https://i.imgur.com/4Z5y41F.jpg)
 
 # Machine Learning Model Selection
-![model](https://i.imgur.com/jTY9cpw.png)<br/>
-* Best Performing Model Was Support Vector Machine With An Out Of Sample Accuracy of 0.992
-
-# Linear Model Using Hinge Loss
-![linear](https://i.imgur.com/q7s3rRz.png)<br/>
-* The Best Performing Model Was Using Regularization Constant = 0.01<br/>
-* Testing Accuracy Using 5-Fold Cross Validation = 0.9529230769230768
+![model](https://i.imgur.com/RoTqcjP.png)<br/>
+* Best Performing Model Was Support Vector Machine With An Out Of Sample Accuracy of 99.2%
 
 # Logistic Regression
-![logistic](https://i.imgur.com/dhcOeSL.png)<br/>
-* The Best Performing Model Was Using Regularization Constant = 10<br/>
-* Testing Accuracy Using 5-Fold Cross Validation = 0.9446153846153846
+![logistic](https://i.imgur.com/xrvqndp.png)<br/>
+* The Best Performing Model Was Using Regularization Constant = 1 with L2 Penalty<br/>
+* Testing Accuracy Using 5-Fold Cross Validation = 85.824111822947%<br/>
+![decicion boundary](https://i.imgur.com/AB6UsMw.png)
 
-# Support Vector Machine
-![SVM](https://i.imgur.com/fJCgv1U.png)<br/>
-* The Best Performing Model Was Using Regularization Constant = 0.01<br/>
-* Testing Accuracy Using 5-Fold Cross Validation = 0.992
+# K-Nearest Neighbors
+![KNN](https://i.imgur.com/D6Faroe.png)<br/>
+* The Best Performing Model Was Using 10 Neighbors <br/>
+* Testing Accuracy Using 5-Fold Cross Validation = 88.21538461538461% <br/>
+![decicion boundary](https://i.imgur.com/5vPYfCr.png)
 
 # Decision Tree
 ![Tree](https://i.imgur.com/YyWqpTD.png)<br/>
 * The Best Performing Model Was Using Max Tree Depth = 9<br/>
-* Testing Accuracy Using 5-Fold Cross Validation = 0.9763076923076923
+* Testing Accuracy Using 5-Fold Cross Validation = 97.63076923076923%
+![decisiontree](https://i.imgur.com/AmPVfXD.png)
+
+# Support Vector Machine
+![SVM](https://i.imgur.com/fJCgv1U.png)<br/>
+* The Best Performing Model Was Using Regularization Constant = 0.01<br/>
+* Testing Accuracy Using 5-Fold Cross Validation = 99.2%
+![svm](https://i.imgur.com/sU8CgSl.png)
 
 # Convolutional Neural Network Design
-![CNN](https://i.imgur.com/nBVDjjw.png)
+![CNN](https://i.imgur.com/mQnUptP.png)
 
 # Forward Propagation Visualization
 ![Forward Prop](https://raw.githubusercontent.com/vee-upatising/Recycle-Bot/master/CNN%20Forward%20Propagation.gif)
 ![Forward Prop 2](https://raw.githubusercontent.com/vee-upatising/Recycle-Bot/master/CNN%20Forward%20Propagation%202.gif)
 
 # Convolutional Filter Heat Map
-![63](https://i.imgur.com/1KMa7YT.png)
-![44](https://i.imgur.com/CGejYPs.png)
+![63](https://i.imgur.com/0JTGrmm.png)
 
 # Training
-![loss](https://i.imgur.com/urBS8MK.png)<br/>
+* I performed 5-Fold Cross Validation on this model and the training loss over each fold is plotted below:
+![loss](https://i.imgur.com/PlGAcsJ.png)<br/>
 * Using Hinge Loss And Adamax Optimizer
+* These five models achieved an average testing accuracy of 89.84615384615384%
 
 # Testing Accuracy
 ![testing](https://i.imgur.com/qggApQM.png)
