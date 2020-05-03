@@ -64,4 +64,4 @@ The design of the Recycle Bot includes:<br/>
 * These five models achieved an average testing accuracy of 93.63076923076923%
 
 # Testing
-![k-fold test score](https://i.imgur.com/bZ3M8pu.png)
+![k-fold test score](https://i.imgur.com/Gf09L4D.png)
