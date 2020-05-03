@@ -62,11 +62,3 @@ The design of the Recycle Bot includes:<br/>
 ![loss](https://i.imgur.com/PlGAcsJ.png)<br/>
 * Using Hinge Loss And Adamax Optimizer
 * These five models achieved an average testing accuracy of 89.84615384615384%
-
-# Testing Accuracy
-![testing](https://i.imgur.com/qggApQM.png)
-
-# Sample Output
-The output of the model is a positive / negative number based on which class the image belongs to with the magnitude of the number being the confidence of the model.<br/>
-![test1](https://i.imgur.com/nIcemHx.png)
-![test2](https://i.imgur.com/TvuEe14.png)
